@@ -134,3 +134,4 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 <a href="https://github.com/semikolan-co/semikolan-react/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=semikolan-co/semikolan-react" />
 </a>
+Never Stop Building
